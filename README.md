@@ -1,6 +1,5 @@
 # Simple Calculator using React
 
-![Calculator Preview](/screenshot.png)
 
 This React project is the final assignment for the Meta Coursera React Basics course. It features a user-friendly calculator for basic arithmetic operations.
 
